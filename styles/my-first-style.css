@@ -8,28 +8,25 @@ body {
     padding: 5px 5px 5px 5px;
 }
 
-
 #finissant {
     float: left;
     image-orientation: from-image;
-    max-width:22%;
-    margin-right: 20px;
-    }
-
-.Project_page_images {
-    float: left;
-    max-width:50%;
+    max-width: 22%;
     margin-right: 20px;
 }
 
-
+.Project_page_images {
+    float: left;
+    max-width: 50%;
+    margin-right: 20px;
+}
 
 h1 {
     margin: 0;
     padding: 5px 0px;
     text-align: center;
     font-size: 50px;
-    }
+}
 
 h2 {
     margin: 0;
@@ -42,7 +39,6 @@ h3 {
     margin: 10px;
     color: orange;
     font-size: 20px;
-
 }
 
 a {
@@ -56,15 +52,30 @@ a:hover {
 #aboutme {
     width: 300px;
     height: 620px;
-    background:#FC9E9B;
+    background: #fc9e9b;
     position: relative;
-
 }
-#skill_images {
-    max-width:100%;
+#skill_image_1 {
+    max-width: 100%;
     margin-right: 60px;
 }
-#school_images {
-    max-width:100%;
+#skill_image_2 {
+    max-width: 100%;
+    margin-right: 60px;
+}
+#skill_image_3 {
+    max-width: 100%;
+    margin-right: 60px;
+}
+#school_image_1 {
+    max-width: 100%;
+    margin-right: 60px;
+}
+#school_image_2 {
+    max-width: 120%;
+    margin-right: 60px;
+}
+#school_image_3 {
+    max-width: 100%;
     margin-right: 60px;
 }
