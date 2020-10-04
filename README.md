@@ -15,7 +15,7 @@ N/A
 Xintong Liu Link to the website : https://liuxinto00.github.io/
 
 ## 4: Preview of website (Screenshot)
-![ScreeShot](https://github.com/liuxinto00/liuxinto00.github.io/blob/main/demo1.jpg)
+![ScreeShot](https://github.com/liuxinto00/liuxinto00.github.io/blob/main/images/demo1.jpeg)
 
 ## 5: video link
 
