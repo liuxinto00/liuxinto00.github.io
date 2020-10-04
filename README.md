@@ -18,6 +18,7 @@ Xintong Liu Link to the website : https://liuxinto00.github.io/
 ![ScreeShot](https://github.com/liuxinto00/liuxinto00.github.io/blob/main/images/demo.jpg)
 
 ## 5: video link
+https://www.youtube.com/watch?v=1GIsE__Wd88&feature=youtu.be
 
 ## 6: License
 MIT License
