@@ -8,8 +8,10 @@ This project is part of the Web Developent class at Northeastern University. The
 Technologies used
 html/css/bootstrap/JavaScript
 
-## 2: Prerequisites
-N/A
+## 2: Prerequisites / instructions
+No dependencies required for this project.
+You can check package.json for the packages I used to enhance coding styles.
+Only browser is needed.
 
 ## 3: Authors
 Xintong Liu Link to the website : https://liuxinto00.github.io/
